@@ -3,4 +3,4 @@
 
 Repositório criado durante aula do Guanabara.
 
-Escrevendo aqui n git hub para teste.
+Escrevendo aqui no git hub para teste.
